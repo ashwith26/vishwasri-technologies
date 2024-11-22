@@ -1,1 +1,2 @@
 *.png filter=lfs diff=lfs merge=lfs -text
+*.html[[:space:]]*.png[[:space:]]*.js[[:space:]]*.css[[:space:]]*.svg[[:space:]]*.json[[:space:]]*.txt[[:space:]] filter=lfs diff=lfs merge=lfs -text
